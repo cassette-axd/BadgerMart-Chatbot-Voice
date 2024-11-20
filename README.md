@@ -1,5 +1,5 @@
 
-# CS571-F24 HW12: BadgerChat (Voice!)
+# CS571-F24 HW11: BadgerChat (Voice!)
 
 Welcome back to our final installment of BadgerChat! For this assignment, you will re-implement BadgerChat as *a chat application*. By completing this class, you will have developed a web, mobile, and chat interface for BadgerChat! 🥳🎉 
 
