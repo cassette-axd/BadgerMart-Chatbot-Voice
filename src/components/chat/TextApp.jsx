@@ -80,7 +80,6 @@ function TextApp() {
             handleAIMessage(ms)
             setIsLoading(false);
         }
-        
     }
 
     function handleAIMessage(m) {
